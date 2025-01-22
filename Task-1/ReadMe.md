@@ -1,5 +1,3 @@
-# Digital Image Processing Task-1
-
 ## Overview
 This repository contains tasks from the Digital Image Processing course. Each task demonstrates a specific aspect of image processing, such as image generation, resizing, interpolation, and algorithm design.
 
