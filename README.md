@@ -1,6 +1,6 @@
 # Digital Image Processing Tasks
 
-This repository contains various tasks and projects completed as part of the Digital Image Processing course. Each task demonstrates the implementation of fundamental image processing techniques, including filtering, enhancement, and transformation.
+This repository contains various tasks completed as part of the Digital Image Processing course. Each task shows the implementation of fundamental image processing techniques, including filtering, enhancement, and transformation.
 
 ## Repository Structure
 - Each task is organized in a separate folder with associated code, input/output files, and a detailed README file describing the task.
