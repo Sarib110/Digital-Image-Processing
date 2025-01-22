@@ -1,5 +1,3 @@
-# Digital Image Processing Tasks
-
 ## Tasks
 
 ### Task 1: Grayscale Image with Alternating Columns
