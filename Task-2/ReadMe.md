@@ -1,5 +1,4 @@
 ## Tasks
-
 ### Task 1: Histogram Plotting
 Read the provided images, display the images, and plot the corresponding histograms as well. 
 ### Task 2: Negative Transformation
