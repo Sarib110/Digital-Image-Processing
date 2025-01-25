@@ -1,5 +1,4 @@
 ## Tasks
-
 ### Task 1: Histogram Equalization
 Implement the histogram equalization algorithm from scratch and apply it on the attached images. Show the original and the output images along with their histograms, PMFs, and CDFs. 
 ### Task 2: Result Analysis
