@@ -11,4 +11,4 @@ After the predictive coding, use Huffman coding for the final compressed output 
 ### Task 4: Calculation of Compression Ratio
 Apply Huffman coding on the original images as well and calculate the compression ratio. 
 ### Task 5: Result Reporting
-For all 10 images, report the results of compression with and without predictive coding. 
+For all 10 images, report the results of compression with and without predictive coding.
